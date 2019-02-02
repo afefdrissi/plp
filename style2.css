@@ -8,7 +8,9 @@ body{
     font-family : Roboto;
    /* overflow-x: hidden;*/
 }
-
+#header-img{
+    height:60px;width:60px;
+}
 #header{
     width: 100%;
    z-index: 100;
@@ -80,6 +82,7 @@ h1{
 }
 #zero{
     background : -webkit-gradient(linear,-148.36% 95.57% ,139.7% 29.39% ,color-stop(0,rgba(255, 243, 59, 1) ),color-stop(0.0401,rgba(254, 231, 46, 1) ),color-stop(0.1171,rgba(254, 213, 27, 1) ),color-stop(0.1964,rgba(253, 202, 16, 1) ),color-stop(0.2809,rgba(253, 199, 12, 1) ),color-stop(0.6685,rgba(243, 144, 63, 1) ),color-stop(0.8876,rgba(237, 104, 60, 1) ),color-stop(1,rgba(233, 75, 58, 1) ));
+    background-image: url('pi.png');
 }
 
 #email{
